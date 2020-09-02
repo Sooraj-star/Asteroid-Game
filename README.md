@@ -2,7 +2,7 @@
 
 html, css , js code is rubik's cube game play!!
 
-So,open the "index space game.rar" and blue box - click on Download
+So,open the "index space game.rar" and Text center blue  - click on View raw('download')
 
 After, click the mouse right press.extend here!
 
