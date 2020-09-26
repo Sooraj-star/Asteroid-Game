@@ -1,4 +1,4 @@
-# space_ship
+# space_ship 2d game
 
 HI FRIENDS 
 
