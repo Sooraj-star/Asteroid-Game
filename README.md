@@ -1,6 +1,6 @@
-# rubik-s-cube
+# space_ship
 
-html, css , js code is rubik's cube game play!!
+html, css , js--code is space-ship vs asteroid game play!!
 
 So,open the "index space game.rar" and Text center blue  - click on View raw('download')
 
